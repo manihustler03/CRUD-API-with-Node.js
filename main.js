@@ -3,6 +3,9 @@ import movieRoutes from "./routes/movies.route.js";
 const app = express();
 const PORT = 6969;
 
+// connect DB
+
+
 app.get("/", (req, res) => {
   res.json({ msg: "Hello Students!" });
 });
