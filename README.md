@@ -13,3 +13,8 @@
 5.`git commit -m "your message"`
 
 6.`6.git push -u main orgin`
+
+Tniqydk6JH7hMKpp
+manihustler03
+
+mongodb+srv://manihustler03:Tniqydk6JH7hMKpp@cluster0.cxhujeh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
